@@ -2,7 +2,7 @@
 
 <img width="1672" height="941" alt="EcoHydrate-Logo" src="https://github.com/user-attachments/assets/9d8041ba-5e6d-4084-9b75-d0c994a1a4ff" />
 
-
+ 
 This project is an Arduino-based smart water dispenser with a sustainability-focused system, designed to encourage the use of reusable plastic bottles while reducing single-use plastic waste. The system uses a “bottle-as-a-coin” mechanism, where users insert bottles to gain water refill time, promoting recycling and responsible water consumption. EcoHydrate provides an innovative and eco-friendly solution that combines accessibility, convenience, and environmental awareness.
 
 ## Features
